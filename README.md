@@ -1,6 +1,6 @@
 # Snapweave
 
-Snapweave is a ligtweight, web-based RAW file editor functioning similar to Lightroom.
+Snapweave is a lightweight, web-based RAW file editor functioning similar to Lightroom.
 It can apply lossless edits and export RAW files to different image formats, after applying adjustments to tone curves, HSL values, exposure, etc.
 
 > [!WARNING]
